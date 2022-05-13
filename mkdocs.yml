@@ -1,6 +1,7 @@
 site_name: Freely Given Harmonic Church
 site_url: https://freelygivenharmonic.church
 repo_url: https://github.com/FreelyGivenHarmonicChurch/FreelyGivenHarmonicChurch.github.io
+edit_uri: edit/main/docs/
 site_description: null
 site_author: null
 nav:
