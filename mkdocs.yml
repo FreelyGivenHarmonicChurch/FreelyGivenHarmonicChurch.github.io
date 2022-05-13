@@ -1,0 +1,8 @@
+site_name: Freely Given Harmonic Church
+site_url: https://freelygivenharmonic.church
+repo_url: https://github.com/FreelyGivenHarmonicChurch/FreelyGivenHarmonicChurch.github.io
+site_description: null
+site_author: null
+nav:
+    - 'Home': 'index.md'
+    - 'Prayer': 'prayer.md'
