@@ -1,6 +1,6 @@
 POETRY := poetry
 
-. PHONY: install update-depends
+. PHONY: install update-depends build serve deploy
 
 install:
 	$(POETRY) install

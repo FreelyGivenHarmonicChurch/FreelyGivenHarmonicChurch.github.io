@@ -14,6 +14,6 @@
 
 ## Thich Nhat Hanh
 
-# Arne Næss
+## Arne Næss
 
 ## Suelo
