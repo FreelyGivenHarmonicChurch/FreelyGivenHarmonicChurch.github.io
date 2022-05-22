@@ -1,11 +1,12 @@
-# Works
-
-Faith Without Works is Dead.
-
+# Action
 
 > Genuine religion is not about speculating about God or the soul or about what happened in the past or will happen in the future; it cares only about one thing—finding out exactly what should or should not be done in this lifetime. - Leo Tolstoy
 
 > Our own life must be our lesson. - Thich Nhat Hanh
+
+## Works
+
+Faith Without Works is Dead.
 
 ## Service
 

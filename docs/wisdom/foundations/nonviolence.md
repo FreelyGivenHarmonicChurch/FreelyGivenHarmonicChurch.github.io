@@ -1,5 +1,7 @@
 # Nonviolence
 
+> Violence brings only temporary victories; violence, by creating more social problems than it solves, never brings permanent peace. I am convinced that if we succumb to the temptation to use violence in our struggle for freedom, unborn generations will be the recipients of a long and desolate night of bitterness, and our chief legacy to them will be a never-ending reign of chaos. - [Martin Luther King, Jr](https://bookquoters.com/book/strength-to-love)
+
 ## Ahimsa
 
 ## Reconciliation
