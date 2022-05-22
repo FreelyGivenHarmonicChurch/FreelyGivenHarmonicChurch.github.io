@@ -2,72 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://freelygivenharmonic.church/</loc>
-         <lastmod>2022-05-15</lastmod>
+         <lastmod>2022-05-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.church/music/taize/</loc>
-         <lastmod>2022-05-15</lastmod>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/action/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/interconnectedness/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/love/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/mindfulness/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/moderation/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/nature/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/nonviolence/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/pluralism/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/reason/</loc>
+         <lastmod>2022-05-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.church/wisdom/rejecting_mammon/</loc>
+         <lastmod>2022-05-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.church/wisdom/teachers/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/community/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/interconnectedness/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/love/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/nature/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/nonviolence/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/pluralism/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/reason/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/rejecting_mammon/</loc>
-         <lastmod>2022-05-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.church/wisdom/foundations/works/</loc>
-         <lastmod>2022-05-15</lastmod>
+         <lastmod>2022-05-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.church/worship/prayers/</loc>
-         <lastmod>2022-05-15</lastmod>
+         <lastmod>2022-05-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.church/worship/texts/</loc>
-         <lastmod>2022-05-15</lastmod>
+         <lastmod>2022-05-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
