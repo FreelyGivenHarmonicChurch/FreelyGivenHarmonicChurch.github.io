@@ -8,7 +8,7 @@ Thy kingdom come.
 Thy will be done,  
 on earth as it is in heaven.  
 Give us this day our daily bread.  
-And forgive us us our debts,  
+And forgive us our debts,  
 as we also have forgiven our debtors.  
 And do not bring us to the time of trial,  
 but rescue us from the evil one.  
@@ -42,6 +42,6 @@ and wisdom to know the difference.
 ## Jesus Prayer
 
 Jesus Christ,  
-Son of God,  
+Son of Man,  
 have mercy on me,  
 a sinner.

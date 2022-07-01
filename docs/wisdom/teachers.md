@@ -6,6 +6,8 @@
 
 ## Jesus Christ
 
+## Rumi
+
 ## Leo Tolstoy
 
 ## Martin Luther King, Jr.

@@ -1,5 +1,5 @@
 site_name: Freely Given Harmonic Church
-site_description: null
+site_description: Freely you have received; freely give.
 site_author: null
 
 site_url: https://freelygivenharmonic.church
@@ -9,15 +9,13 @@ edit_uri: edit/main/docs/
 nav:
     - Wisdom:
         - Love: 'wisdom/love.md'
-        - Interconnectedness: 'wisdom/interconnectedness.md'
         - Nonviolence: 'wisdom/nonviolence.md'
-        - Nature: 'wisdom/nature.md'
-        - Rejecting Mammon: 'wisdom/rejecting_mammon.md'
+        - Simplicity: 'wisdom/simplicity.md'
         - Pluralism: 'wisdom/pluralism.md'
         - Reason: 'wisdom/reason.md'
         - Action: 'wisdom/action.md'
+        - Nature: 'wisdom/nature.md'
         - Mindfulness: 'wisdom/mindfulness.md'
-        - Moderation: 'wisdom/moderation.md'
         - Teachers: 'wisdom/teachers.md'
     - Worship:
         - Prayers: 'worship/prayers.md'

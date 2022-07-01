@@ -1,8 +1,10 @@
 # Nonviolence
 
-> Violence brings only temporary victories; violence, by creating more social problems than it solves, never brings permanent peace. I am convinced that if we succumb to the temptation to use violence in our struggle for freedom, unborn generations will be the recipients of a long and desolate night of bitterness, and our chief legacy to them will be a never-ending reign of chaos. - [Martin Luther King, Jr](https://bookquoters.com/book/strength-to-love)
+> You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’ But I tell you not to resist an evil person. But whoever slaps you on your right cheek, turn the other to him also. If anyone wants to sue you and take away your tunic, let him have your cloak also. And whoever compels you to go one mile, go with him two. Give to him who asks you, and from him who wants to borrow from you do not turn away. - [Jesus](https://biblehub.com/matthew/5-38.htm)
 
-## Ahimsa
+## The False Promise of Violence
+
+> Violence brings only temporary victories; violence, by creating more social problems than it solves, never brings permanent peace. I am convinced that if we succumb to the temptation to use violence in our struggle for freedom, unborn generations will be the recipients of a long and desolate night of bitterness, and our chief legacy to them will be a never-ending reign of chaos. - [Martin Luther King, Jr](https://bookquoters.com/book/strength-to-love)
 
 ## Reconciliation
 

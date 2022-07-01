@@ -2,7 +2,9 @@
 
 > Genuine religion is not about speculating about God or the soul or about what happened in the past or will happen in the future; it cares only about one thing—finding out exactly what should or should not be done in this lifetime. - Leo Tolstoy
 
-> Our own life must be our message. - Thich Nhat Hanh
+<hr>
+
+> Our own life has to be our message. - [Thich Nhat Hanh](https://www.goodreads.com/quotes/39624-our-own-life-has-to-be-our-message)
 
 ## Works
 
