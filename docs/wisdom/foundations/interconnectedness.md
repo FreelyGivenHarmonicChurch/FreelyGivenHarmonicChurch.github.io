@@ -1,4 +1,0 @@
-# Interconnectedness
-
-## "Interbeing"
-

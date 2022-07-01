@@ -1,5 +1,5 @@
 site_name: Freely Given Harmonic Church
-site_description: null
+site_description: Freely you have received; freely give.
 site_author: null
 
 site_url: https://freelygivenharmonic.church
@@ -7,21 +7,21 @@ repo_url: https://github.com/FreelyGivenHarmonicChurch/FreelyGivenHarmonicChurch
 edit_uri: edit/main/docs/
 
 nav:
-    - Music:
-        - Taize: 'music/taize.md'
     - Wisdom:
-        - Foundations:
-            - Interconnectedness: 'wisdom/foundations/interconnectedness.md'
-            - Love: 'wisdom/foundations/love.md'
-            - Nonviolence: 'wisdom/foundations/nonviolence.md'
-            - Rejecting Mammon: 'wisdom/foundations/rejecting_mammon.md'
-            - Pluralism: 'wisdom/foundations/pluralism.md'
-            - Reason: 'wisdom/foundations/reason.md'
-            - Works: 'wisdom/foundations/works.md'
+        - Love: 'wisdom/love.md'
+        - Nonviolence: 'wisdom/nonviolence.md'
+        - Simplicity: 'wisdom/simplicity.md'
+        - Pluralism: 'wisdom/pluralism.md'
+        - Reason: 'wisdom/reason.md'
+        - Action: 'wisdom/action.md'
+        - Nature: 'wisdom/nature.md'
+        - Mindfulness: 'wisdom/mindfulness.md'
         - Teachers: 'wisdom/teachers.md'
     - Worship:
         - Prayers: 'worship/prayers.md'
         - Texts: 'worship/texts.md'
+    - Music:
+        - Taize: 'music/taize.md'
 
 theme:
   name: readthedocs

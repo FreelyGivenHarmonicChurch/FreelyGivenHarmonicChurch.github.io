@@ -2,7 +2,11 @@
 
 ## Buddha
 
+## Lao Tzu
+
 ## Jesus Christ
+
+## Rumi
 
 ## Leo Tolstoy
 
@@ -11,5 +15,7 @@
 ## Thomas Merton
 
 ## Thich Nhat Hanh
+
+## Arne Næss
 
 ## Suelo
