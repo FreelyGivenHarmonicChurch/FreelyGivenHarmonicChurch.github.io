@@ -1,12 +1,19 @@
 site_name: Freely Given Harmonic Church
-site_description: Freely you have received; freely give.
+site_description: "Heal the sick, cleanse the lepers, raise the dead, cast out demons. Freely you have received, freely give."
 site_author: null
 
-site_url: https://freelygivenharmonic.church
+site_url: https://freelygivenharmonic.github.io
 repo_url: https://github.com/FreelyGivenHarmonicChurch/FreelyGivenHarmonicChurch.github.io
 edit_uri: edit/main/docs/
 
 nav:
+    - Music:
+        - Original:
+            - Son of Man: 'music/original/son_of_man.md'
+        - Taize: 'music/taize.md'
+    - Worship:
+        - Prayers: 'worship/prayers.md'
+        - Texts: 'worship/texts.md'
     - Wisdom:
         - Love: 'wisdom/love.md'
         - Nonviolence: 'wisdom/nonviolence.md'
@@ -17,11 +24,6 @@ nav:
         - Nature: 'wisdom/nature.md'
         - Mindfulness: 'wisdom/mindfulness.md'
         - Teachers: 'wisdom/teachers.md'
-    - Worship:
-        - Prayers: 'worship/prayers.md'
-        - Texts: 'worship/texts.md'
-    - Music:
-        - Taize: 'music/taize.md'
 
 theme:
   name: readthedocs
