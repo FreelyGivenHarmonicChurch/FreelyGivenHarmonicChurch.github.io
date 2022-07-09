@@ -12,9 +12,9 @@
 
 > You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ But I say to you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who spitefully use you and persecute you, that you may be sons of your Father in heaven; for He makes His sun rise on the evil and on the good, and sends rain on the just and on the unjust. For if you love those who love you, what reward have you? Do not even the tax collectors do the same? And if you greet your brethren only, what do you do more than others? Do not even the tax collectors do so? Therefore you shall be perfect, just as your Father in heaven is perfect. - [Jesus](https://biblehub.com/matthew/5-43.htm)
 
-> Returning hate for hate multiplies hate, adding deeper darkness to a night already devoid of stars. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. Hate multiplies hate, violence multiplies violence, and toughness multiplies toughness in a descending spiral of destruction. So when Jesus says “Love your enemies,” he is setting forth a profound and ultimately inescapable admonition. Have we not come to such an impasse in the modern world that we must love our enemies– or else? The chain reaction of evil–hate begetting hate, wars producing wars–must be broken, or we shall be plunged into the dark abyss of annihilation. - [Martin Luther King, Jr.](https://bookquoters.com/book/strength-to-love)
-
 ## Strength To Love
+
+> Returning hate for hate multiplies hate, adding deeper darkness to a night already devoid of stars. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. Hate multiplies hate, violence multiplies violence, and toughness multiplies toughness in a descending spiral of destruction. So when Jesus says “Love your enemies,” he is setting forth a profound and ultimately inescapable admonition. Have we not come to such an impasse in the modern world that we must love our enemies– or else? The chain reaction of evil–hate begetting hate, wars producing wars–must be broken, or we shall be plunged into the dark abyss of annihilation. - [Martin Luther King, Jr.](https://bookquoters.com/book/strength-to-love)
 
 ## Mercy
 
