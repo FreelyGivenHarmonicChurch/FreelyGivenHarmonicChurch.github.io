@@ -1,68 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://freelygivenharmonic.church/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/music/taize/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/music/taize/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/action/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/music/original/son_of_man/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/love/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/action/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/mindfulness/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/love/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/nature/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/mindfulness/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/nonviolence/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/nature/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/pluralism/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/nonviolence/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/reason/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/pluralism/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/simplicity/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/reason/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/wisdom/teachers/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/simplicity/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/worship/prayers/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/wisdom/teachers/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://freelygivenharmonic.church/worship/texts/</loc>
-         <lastmod>2022-07-01</lastmod>
+         <loc>https://freelygivenharmonic.github.io/worship/prayers/</loc>
+         <lastmod>2022-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/worship/texts/</loc>
+         <lastmod>2022-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
