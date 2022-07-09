@@ -16,10 +16,11 @@
 
 ## Strength To Love
 
-
 ## Mercy
 
 ## Compassion
+
+> Our job is to love others without stopping to inquire whether or not they are worthy. That is not our business and, in fact, it is nobody's business. What we are asked to do is to love, and this love itself will render both ourselves and our neighbors worthy. - [Thomas Merton](https://www.goodreads.com/quotes/161733-our-job-is-to-love-others-without-stopping-to-inquire)
 
 ## Sacrifice
 
