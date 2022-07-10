@@ -11,3 +11,7 @@
 ## Holy Bible
 
 - [Bible Hub](https://biblehub.com/)
+
+## The Gospel In Brief
+
+- [*The Gospel In Brief*, by Leo Tolstoy](https://archive.org/details/cu31924029339078)
