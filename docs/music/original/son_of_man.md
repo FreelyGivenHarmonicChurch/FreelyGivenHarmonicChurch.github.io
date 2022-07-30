@@ -21,6 +21,27 @@ A sinner<br>
 
 **Verse 1**<br>
 C#m<br>
+Judge not,<br>
+F#<br>
+Lest ye be judged,<br>
+A<br>
+See the plank,<br>
+G#<br>
+Not the speck<br>
+
+C#m<br>
+Ask and knock and,<br>
+F#<br>
+Seek and you’ll find,<br>
+A<br>
+Let the Golden Rule shine,<br>
+E<br>
+Law and Prophets divine<br>
+
+**Chorus**<br>
+
+**Verse 2**<br>
+C#m<br>
 Strait is the gate,<br>
 F#<br>
 Narrows the way,<br>
@@ -40,15 +61,23 @@ That find it one day<br>
 
 **Chorus**<br>
 
-**Verse 2**<br>
+**Verse 3**<br>
+C#m<br>
 Let the dead,<br>
+F#<br>
 Bury the dead, the<br>
+A<br>
 Son of Man has no-<br>
+G#<br>
 -where to lay His head<br>
 
+C#m<br>
 Foxes have holes,<br>
+F#<br>
 Birds have the nest,<br>
+A<br>
 Follow Him and He’ll,<br>
+E<br>
 Take care of the rest<br>
 
 **Chorus**
