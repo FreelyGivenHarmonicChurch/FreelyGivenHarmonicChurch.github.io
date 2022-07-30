@@ -32,11 +32,11 @@ Not the speck<br>
 C#m<br>
 Ask and knock and,<br>
 F#<br>
-Seek and you’ll find,<br>
+Seek and you’ll find, let the<br>
 A<br>
-Let the Golden Rule shine,<br>
+Golden Rule shine, Law and <br>
 E<br>
-Law and Prophets divine<br>
+Prophets divine<br>
 
 **Chorus**<br>
 
