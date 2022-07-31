@@ -11,9 +11,11 @@ nav:
         - Original:
             - Son of Man: 'music/original/son_of_man.md'
         - Taize: 'music/taize.md'
-    - Worship:
-        - Prayers: 'worship/prayers.md'
-        - Texts: 'worship/texts.md'
+    - Practice:
+        - Recitations:
+            - Chants: 'practice/recitations/chants.md'
+            - Prayers: 'practice/recitations/prayers.md'
+        - Texts: 'practice/texts.md'
     - Wisdom:
         - Quotations:
             - Love: 'wisdom/quotations/love.md'
@@ -29,6 +31,7 @@ nav:
             - Mysticism: 'wisdom/worldviews/mysticism.md'
             - Christian Anarchism: 'wisdom/worldviews/christian_anarchism.md'
             - Deep Ecology: 'wisdom/worldviews/deep_ecology.md'
+            - Double Belonging: 'wisdom/worldviews/double_belonging.md'
 
 theme:
   name: readthedocs

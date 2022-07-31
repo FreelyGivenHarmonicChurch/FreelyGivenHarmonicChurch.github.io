@@ -1,4 +1,4 @@
-# Prayer
+# Prayers
 
 ## The Lord's Prayer
 
