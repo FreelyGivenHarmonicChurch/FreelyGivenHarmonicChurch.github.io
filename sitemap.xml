@@ -2,97 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://freelygivenharmonic.github.io/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/music/taize/</loc>
-         <lastmod>2022-07-31</lastmod>
+         <lastmod>2022-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.github.io/music/original/son_of_man/</loc>
-         <lastmod>2022-07-31</lastmod>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/music/sacred/taize/</loc>
+         <lastmod>2022-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.github.io/practice/texts/</loc>
-         <lastmod>2022-07-31</lastmod>
+         <lastmod>2022-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.github.io/practice/recitations/chants/</loc>
-         <lastmod>2022-07-31</lastmod>
+         <lastmod>2022-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.github.io/practice/recitations/prayers/</loc>
-         <lastmod>2022-07-31</lastmod>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/anarchism/anarcho-pacifism/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/anarchism/christian_anarchism/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/anarchism/overview/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/community/quotes/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/diversity/double_belonging/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/diversity/perennialism/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/diversity/pluralism/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/diversity/quotes/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/experience/mindfulness/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/experience/mysticism/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/experience/quotes/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/experience/religious_experience/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/love/quotes/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/nature/deep_ecology/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/nature/environmentalism/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/nature/quotes/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/pacifism/overview/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/pacifism/quotes/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://freelygivenharmonic.github.io/wisdom/ideas/simplicity/quotes/</loc>
+         <lastmod>2022-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.github.io/wisdom/quotations/action/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/quotations/love/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/quotations/mindfulness/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/quotations/nature/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/quotations/nonviolence/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/quotations/pluralism/</loc>
-         <lastmod>2022-07-31</lastmod>
+         <lastmod>2022-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.github.io/wisdom/quotations/reason/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/quotations/simplicity/</loc>
-         <lastmod>2022-07-31</lastmod>
+         <lastmod>2022-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://freelygivenharmonic.github.io/wisdom/teachers/teachers/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/worldviews/christian_anarchism/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/worldviews/deep_ecology/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/worldviews/double_belonging/</loc>
-         <lastmod>2022-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://freelygivenharmonic.github.io/wisdom/worldviews/mysticism/</loc>
-         <lastmod>2022-07-31</lastmod>
+         <lastmod>2022-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
