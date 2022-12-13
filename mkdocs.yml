@@ -22,38 +22,39 @@ nav:
         - Texts: 'practice/texts.md'
     - Wisdom:
         - Quotations:
-            - Love: 'wisdom/quotations/love.md'
-            - Nonviolence: 'wisdom/quotations/nonviolence.md'
-            - Simplicity: 'wisdom/quotations/simplicity.md'
-            - Pluralism: 'wisdom/quotations/pluralism.md'
             - Reason: 'wisdom/quotations/reason.md'
             - Action: 'wisdom/quotations/action.md'
-            - Nature: 'wisdom/quotations/nature.md'
-            - Mindfulness: 'wisdom/quotations/mindfulness.md'
         - Teachers: 'wisdom/teachers/teachers.md'
         - Ideas:
             - Experience:
                 - Religious Experience: 'wisdom/ideas/experience/religious_experience.md'
                 - Mysticism: 'wisdom/ideas/experience/mysticism.md'
+                - Mindfulness: 'wisdom/ideas/experience/mindfulness.md'
+                - Quotes: 'wisdom/ideas/experience/quotes.md'
             - Diversity:
-            #     - Overview: 'test'
                 - Pluralism: 'wisdom/ideas/diversity/pluralism.md'
                 - Perennialism: 'wisdom/ideas/diversity/perennialism.md'
                 - Double Belonging: 'wisdom/ideas/diversity/double_belonging.md'
+                - Quotes: 'wisdom/ideas/diversity/quotes.md'
             #     - Interreligious(sic?) Dialogue: ''
+            - Love:
+                - Quotes: 'wisdom/ideas/love/quotes.md'
+            - Community:
+                - Quotes: 'wisdom/ideas/community/quotes.md'
+            - Nature:
+                - Environmentalism: 'wisdom/ideas/nature/environmentalism.md'
+                - Deep Ecology: 'wisdom/ideas/nature/deep_ecology.md'
+                - Quotes: 'wisdom/ideas/nature/quotes.md'
+            - Simplicity:
+                - Quotes: 'wisdom/ideas/simplicity/quotes.md'
+                # - Gift Economy/Economy of Abundance
             - Pacifism:
                 - Overview: 'wisdom/ideas/pacifism/overview.md'
+                - Quotes: 'wisdom/ideas/pacifism/quotes.md'
             - Anarchism: 
                 - Overview: 'wisdom/ideas/anarchism/overview.md'
                 - Anarcho-pacifism: 'wisdom/ideas/anarchism/anarcho-pacifism.md'
                 - Christian Anarchism: 'wisdom/ideas/anarchism/christian_anarchism.md'
-            # - Gift Economy/Economy of Abundance
-            # - Love
-            # - Community
-            - Environmentalism:
-                - Overview: 'wisdom/ideas/environmentalism/overview.md'
-                - Deep Ecology: 'wisdom/ideas/environmentalism/deep_ecology.md'
-            
 
 theme:
   name: readthedocs

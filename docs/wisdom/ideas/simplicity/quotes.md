@@ -1,4 +1,4 @@
-# Simplicity
+# Quotes on Simplicity
 
 > As for your name and your body, which is the dearer?<br>
 > As for your body and your wealth, which is the more to be prized?<br>

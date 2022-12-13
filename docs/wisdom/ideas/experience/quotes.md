@@ -1,3 +1,3 @@
-# Mindfulness
+# Quotes on Experience
 
 > The mind is everything. What you think you become. - Buddha
