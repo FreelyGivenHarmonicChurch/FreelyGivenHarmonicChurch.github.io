@@ -10,7 +10,11 @@ nav:
     - Music:
         - Original:
             - Son of Man: 'music/original/son_of_man.md'
-        - Taize: 'music/taize.md'
+        # - Protest:
+        #     - Overview: 'music/protest/overview.md'
+        # - Sacred:
+        #     - Overview: 'music/sacred/overview.md'        
+        #     - Taize: 'music/sacred/taize.md'
     - Practice:
         - Recitations:
             - Chants: 'practice/recitations/chants.md'
@@ -27,13 +31,32 @@ nav:
             - Nature: 'wisdom/quotations/nature.md'
             - Mindfulness: 'wisdom/quotations/mindfulness.md'
         - Teachers: 'wisdom/teachers/teachers.md'
-        - Worldviews:
-            - Mysticism: 'wisdom/worldviews/mysticism.md'
-            - Christian Anarchism: 'wisdom/worldviews/christian_anarchism.md'
-            - Deep Ecology: 'wisdom/worldviews/deep_ecology.md'
-            - Double Belonging: 'wisdom/worldviews/double_belonging.md'
+        - Ideas:
+            - Experience:
+                - Religious Experience: 'wisdom/ideas/experience/religious_experience.md'
+                - Mysticism: 'wisdom/ideas/experience/mysticism.md'
+            - Diversity:
+            #     - Overview: 'test'
+                - Pluralism: 'wisdom/ideas/diversity/pluralism.md'
+                - Perennialism: 'wisdom/ideas/diversity/perennialism.md'
+                - Double Belonging: 'wisdom/ideas/diversity/double_belonging.md'
+            #     - Interreligious(sic?) Dialogue: ''
+            - Pacifism:
+                - Overview: 'wisdom/ideas/pacifism/overview.md'
+            - Anarchism: 
+                - Overview: 'wisdom/ideas/anarchism/overview.md'
+                - Anarcho-pacifism: 'wisdom/ideas/anarchism/anarcho-pacifism.md'
+                - Christian Anarchism: 'wisdom/ideas/anarchism/christian_anarchism.md'
+            # - Gift Economy/Economy of Abundance
+            # - Love
+            # - Community
+            - Environmentalism:
+                - Overview: 'wisdom/ideas/environmentalism/overview.md'
+                - Deep Ecology: 'wisdom/ideas/environmentalism/deep_ecology.md'
+            
 
 theme:
   name: readthedocs
 
-plugins: []
+plugins:
+    - search

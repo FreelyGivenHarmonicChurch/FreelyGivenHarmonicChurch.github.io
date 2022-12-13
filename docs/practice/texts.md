@@ -8,6 +8,10 @@
 
 - [*Tao Teh Ching by Lao Tzu*, Translated by John C. H. Wu](https://terebess.hu/english/tao/wu.html)
 
+## Bhagavad Gita
+
+- [*Wikipedia*](https://en.wikipedia.org/wiki/Bhagavad_Gita)
+
 ## Holy Bible
 
 - [Bible Hub](https://biblehub.com/)
