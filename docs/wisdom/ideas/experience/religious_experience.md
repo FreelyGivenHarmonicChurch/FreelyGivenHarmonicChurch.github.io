@@ -5,5 +5,5 @@
 
 ## Texts
 
-- [The Varieties of Religious Experience, by William James](https://archive.org/details/VarietiesOfReligiousExperience)
-- [The Idea Of The Holy, by Rudolf Otto](https://archive.org/details/in.ernet.dli.2015.262513)
+- [The Varieties of Religious Experience by William James](https://archive.org/details/VarietiesOfReligiousExperience)
+- [The Idea Of The Holy by Rudolf Otto](https://archive.org/details/in.ernet.dli.2015.262513)

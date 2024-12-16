@@ -1,4 +1,4 @@
-<img src="images/giving-hands.jpg" alt="White silhouette of giving hands on a black background" style="margin: auto; display: block;" max-width="100%" height="auto"/>
+<img src="images/giving-hands.jpg" alt="White silhouette of giving hands on a black background" style="border:1px solid black; margin: auto; display: block;" max-width="100%" height="auto"/>
 
 # Freely Given Harmonic Church
 
