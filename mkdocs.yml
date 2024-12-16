@@ -1,6 +1,6 @@
 site_name: Freely Given Harmonic Church
 site_description: "Heal the sick, cleanse the lepers, raise the dead, cast out demons. Freely you have received, freely give."
-site_author: null
+site_author: ""
 
 site_url: https://freelygivenharmonicchurch.github.io
 repo_url: https://github.com/FreelyGivenHarmonicChurch/FreelyGivenHarmonicChurch.github.io
@@ -9,54 +9,55 @@ edit_uri: edit/main/docs/
 nav:
     - Music:
         - Original:
+            - I Am Willing: 'music/original/i_am_willing.md'
             - Son of Man: 'music/original/son_of_man.md'
         # - Protest:
         #     - Overview: 'music/protest/overview.md'
-        - Sacred:
-            - Taize: 'music/sacred/taize.md'
+        # - Sacred:
+        #     - Taize: 'music/sacred/taize.md'
     - Practice:
         - Recitations:
             - Chants: 'practice/recitations/chants.md'
             - Prayers: 'practice/recitations/prayers.md'
         - Texts: 'practice/texts.md'
-    - Wisdom:
-        - Ideas:
-            - Experience:
-                - Religious Experience: 'wisdom/ideas/experience/religious_experience.md'
-                - Mysticism: 'wisdom/ideas/experience/mysticism.md'
-                - Mindfulness: 'wisdom/ideas/experience/mindfulness.md'
-                - Quotes: 'wisdom/ideas/experience/quotes.md'
-            - Diversity:
-                - Interfaith Dialogue: 'wisdom/ideas/diversity/interfaith_dialogue.md'
-                - Pluralism: 'wisdom/ideas/diversity/pluralism.md'
-                - Perennialism: 'wisdom/ideas/diversity/perennialism.md'
-                - Double Belonging: 'wisdom/ideas/diversity/double_belonging.md'
-                - Quotes: 'wisdom/ideas/diversity/quotes.md'
-            - Love:
-                - Quotes: 'wisdom/ideas/love/quotes.md'
-            - Action:
-                - Service: 'wisdom/ideas/action/service.md'
-                - Quotes: 'wisdom/ideas/action/quotes.md'
-            - Community:
-                - Education: 'wisdom/ideas/community/education.md'
-                - Quotes: 'wisdom/ideas/community/quotes.md'
-            - Nature:
-                - Environmentalism: 'wisdom/ideas/nature/environmentalism.md'
-                - Deep Ecology: 'wisdom/ideas/nature/deep_ecology.md'
-                - Quotes: 'wisdom/ideas/nature/quotes.md'
-            - Simplicity:
-                - Gift Economy: 'wisdom/ideas/simplicity/gift_economy.md'
-                - Quotes: 'wisdom/ideas/simplicity/quotes.md'
-            - Pacifism:
-                - Overview: 'wisdom/ideas/pacifism/overview.md'
-                - Quotes: 'wisdom/ideas/pacifism/quotes.md'
-            - Anarchism: 
-                - Overview: 'wisdom/ideas/anarchism/overview.md'
-                - Anarcho-pacifism: 'wisdom/ideas/anarchism/anarcho-pacifism.md'
-                - Christian Anarchism: 'wisdom/ideas/anarchism/christian_anarchism.md'
-        - Teachers: 'wisdom/teachers/teachers.md'
-        - Quotations:
-            - Reason: 'wisdom/quotations/reason.md'
+    # - Wisdom:
+    #     - Ideas:
+    #         - Experience:
+    #             - Religious Experience: 'wisdom/ideas/experience/religious_experience.md'
+    #             - Mysticism: 'wisdom/ideas/experience/mysticism.md'
+    #             - Mindfulness: 'wisdom/ideas/experience/mindfulness.md'
+    #             - Quotes: 'wisdom/ideas/experience/quotes.md'
+    #         - Diversity:
+    #             - Interfaith Dialogue: 'wisdom/ideas/diversity/interfaith_dialogue.md'
+    #             - Pluralism: 'wisdom/ideas/diversity/pluralism.md'
+    #             - Perennialism: 'wisdom/ideas/diversity/perennialism.md'
+    #             - Double Belonging: 'wisdom/ideas/diversity/double_belonging.md'
+    #             - Quotes: 'wisdom/ideas/diversity/quotes.md'
+    #         - Love:
+    #             - Quotes: 'wisdom/ideas/love/quotes.md'
+    #         - Action:
+    #             - Service: 'wisdom/ideas/action/service.md'
+    #             - Quotes: 'wisdom/ideas/action/quotes.md'
+    #         - Community:
+    #             - Education: 'wisdom/ideas/community/education.md'
+    #             - Quotes: 'wisdom/ideas/community/quotes.md'
+    #         - Nature:
+    #             - Environmentalism: 'wisdom/ideas/nature/environmentalism.md'
+    #             - Deep Ecology: 'wisdom/ideas/nature/deep_ecology.md'
+    #             - Quotes: 'wisdom/ideas/nature/quotes.md'
+    #         - Simplicity:
+    #             - Gift Economy: 'wisdom/ideas/simplicity/gift_economy.md'
+    #             - Quotes: 'wisdom/ideas/simplicity/quotes.md'
+    #         - Pacifism:
+    #             - Overview: 'wisdom/ideas/pacifism/overview.md'
+    #             - Quotes: 'wisdom/ideas/pacifism/quotes.md'
+    #         - Anarchism: 
+    #             - Overview: 'wisdom/ideas/anarchism/overview.md'
+    #             - Anarcho-pacifism: 'wisdom/ideas/anarchism/anarcho-pacifism.md'
+    #             - Christian Anarchism: 'wisdom/ideas/anarchism/christian_anarchism.md'
+    #     - Teachers: 'wisdom/teachers/teachers.md'
+    #     - Quotations:
+    #         - Reason: 'wisdom/quotations/reason.md'
 
 theme:
   name: readthedocs
