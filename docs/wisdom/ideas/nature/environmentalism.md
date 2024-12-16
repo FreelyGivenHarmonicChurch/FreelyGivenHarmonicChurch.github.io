@@ -2,5 +2,5 @@
 
 ## Voices
 
-- Edward Abbey
+- Rachel Carson
 - Wendell Berry
