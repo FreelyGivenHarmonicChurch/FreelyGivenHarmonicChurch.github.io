@@ -1,5 +1,7 @@
 # I Am Willing
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1996274127&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/freelygivenharmonicchurch" title="Freely Given Harmonic Church" target="_blank" style="color: #cccccc; text-decoration: none;">Freely Given Harmonic Church</a> · <a href="https://soundcloud.com/freelygivenharmonicchurch/i-am-willing-12-28-2024" title="I Am Willing (12/28/2024)" target="_blank" style="color: #cccccc; text-decoration: none;">I Am Willing (12/28/2024)</a></div>
+
 **Chorus**<br>
 
 Are you<br>
@@ -37,7 +39,7 @@ Mercy to<br>
 G<br>
 Sinners,<br>
 D<br>
-Sit at their table and<br>
+Sit at the table and<br>
 A<br>
 Break bread<br>
 
@@ -77,7 +79,7 @@ Blessed are the<br>
 G<br>
 Wretched,<br>
 D<br>
-Sit at their table and<br>
+Sit at the table and<br>
 A<br>
 Break bread<br>
 
@@ -89,3 +91,5 @@ D<br>
 Dead<br>
 A<br>
 ...<br>
+
+**Chorus**<br>
